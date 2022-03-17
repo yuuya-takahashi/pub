@@ -7,6 +7,7 @@ public class Main {
                 
 		bmi = ((double)Math.round(bmi*10))/10;
 		 System.out.println( bmi );
+		 System.out.println( bmi );
         }
 }
 
